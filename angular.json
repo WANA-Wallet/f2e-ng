@@ -27,9 +27,15 @@
               "src/assets"
             ],
             "styles": [
+              "src/common.css",
               "src/styles.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/libs/bootstrap/bootstrap.bundle.js",
+              "src/assets/libs/swiper/swiper-bundle.js",
+              "src/assets/libs/jquery.js",
+              "src/assets/libs/aos/aos.js"
+            ]
           },
           "configurations": {
             "production": {
